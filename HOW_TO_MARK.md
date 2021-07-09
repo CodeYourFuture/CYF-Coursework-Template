@@ -10,23 +10,23 @@ _This file is useful for Volunteers only_
 
 ### 1.1) Where to find solutions?
 
-You can find the solution to this coursework in a repository with the same name as this but with `-Solution` after the name.
+Add `-Solution` to the end of a repo url to find the solution.
 
-For example, for this repo:
+For this repo:
 
 https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week1
 
-The solutions would be found in:
+Find the solution here:
 
 https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week1-Solution
 
-**If you do not have access to these repositories** then please contact your City Coordinator to get access to our Github Team.
+**If you do not have access to these repositories** Contact your City Coordinator to get access to our Github Team.
 
 ### 1.2) Using the Solutions Repo
 
-In these repositories you will find solutions to each weeks coursework. These solutions are example answers and will not be the exact solution that students give. You should use it to inform your feedback of the coursework.
+These solutions are example answers not the only correct answers. Use them to inform your feedback on the coursework.
 
-Additionally, you will find marking guides in these places
+Look for marking guides in these places:
 
 - The `marking` folder - Used to store multiple guides on marking
 - `marking.md` file - Used to store notes on common problems we're trying to address
@@ -36,29 +36,27 @@ Additionally, you will find marking guides in these places
 
 ### 2.1) Feedback Guide
 
-A guide for marking coursework can be found here. Please read it before you start.
+Please read this guide before you start marking.
 
 https://docs.codeyourfuture.io/teams/education/homework-feedback
 
 ### 2.2) Marking Guide
 
-Here is a useful resources you can direct students to when you see them have common mistakes
+When you see trainees make common mistakes, direct them to this marking guide.
 
 https://syllabus.codeyourfuture.io/guides/marking-guide
 
-This guide should be used when you see a student making a common mistake so instead of writing out a reply you can send them to the a good resource.
-
-For example, if the student is leaving in lots of comments out code you could write
+For example, if the student is leaving in lots of commented out code, write a short response like this:
 
 ```txt
 Great work so far!
 
-It's best if you remove code that you're not using, you can read more about this here
+It's best to remove code that you're not using. Read more about this here:
 https://syllabus.codeyourfuture.io/guides/marking-guide#commented-out-code
 ```
 
 ### 3.3) Style Guide
 
-All code at CYF should follow this Style Guide
+All code at CYF should follow this Style Guide:
 
 https://syllabus.codeyourfuture.io/guides/code-style-guide/

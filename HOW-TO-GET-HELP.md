@@ -18,11 +18,11 @@ You should complete all of the steps in the order listed to get help
 
 ## Reporting Issues in Coursework
 
-Is there a problem with this coursework? 
-Have you noticed a bug? 
+Is there a problem with this coursework?
+Have you noticed a bug?
 Does something not make sense?
 
-Post in the relevent channel on Slack depending on the module you are completing:
+Post in the channel named after the module you are working on:
 
 - Git - `cyf-module-git`
 - HTML/CSS - `cyf-module-html-css`
