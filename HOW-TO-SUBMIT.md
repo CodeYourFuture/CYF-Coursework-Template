@@ -13,12 +13,14 @@ The Github Desktop cheatsheet will help you.
 
 [Github Desktop Cheatsheet](http://syllabus.codeyourfuture.io/git/cheatsheet)
 
-This lesson will help you submit your coursework.
+This module will help you submit your coursework.
 
-[Git Lesson](http://syllabus.codeyourfuture.io/git/index)
+[Git](http://syllabus.codeyourfuture.io/git/index)
 
 ## Questions & Help
 
-Not being able to submit your coursework is not an excuse for not doing it.
+Contributing to a remote codebase is a necessary skill for a professional developer. Opening PRs is mandatory at CYF. It is part of the coursework.
 
-If you cannot submit your coursework you **must** message us on Slack to get help.
+If you cannot submit your coursework you **must** post on Slack to get unblocked.
+
+[How to get help](./HOW-TO-GET-HELP.md)
