@@ -7,13 +7,13 @@ Replace this readme with the requirements for your coursework
 - [ ] Limit the objectives to 3-5 items
 - [ ] Write objectives you can measure
 
-# Requirements
+## Requirements
 
 Explain the requirements of the coursework. You might want to talk about goals here. 
 You might want to use formal specifications like Given/When/Then. It's ok for requirements to be in different formats.
 We want trainees to learn to interpret requirements in many settings and expressions.
 
-# Acceptance Criteria
+## Acceptance Criteria
 
 - [ ] I have provided clear success criteria
 - [ ] These might be related to the objectives and the requirements
