@@ -36,7 +36,7 @@ Reviewers, please add labels (provided) to the PR once you've reviewed. This hel
 
 ### Where to find solutions?
 
-You find the solutions for the module on the `solutions` branch.
+You can find the solutions for the module on the `solutions` branch.
 
 ### Solutions branch
 
