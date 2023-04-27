@@ -36,15 +36,7 @@ Reviewers, please add labels (provided) to the PR once you've reviewed. This hel
 
 ### Where to find solutions?
 
-Add `-Solution` to the end of a repo url to find the solution.
-
-For this repo:
-
-https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week1
-
-Find the solution here:
-
-https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week1-Solution
+You find the solutions for the module on the `solutions` branch.
 
 **_If you get a 404_**
 
