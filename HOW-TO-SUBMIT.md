@@ -7,7 +7,7 @@ Update Instructions: https://gist.github.com/ChrisOwen101/84d82f03a60ce19f7f154a
 
 # How To Submit Your Coursework
 
-Use Git & Github to submit your coursework as a pull request.
+Use Git & Github to submit your coursework as a pull request. Follow the pull request workflow defined in the repo you are working on. Repos and projects usually have a specific defined way to open your PR so it's important that you read and follow the individual guidelines.
 
 The Github Desktop cheatsheet will help you.
 
